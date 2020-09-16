@@ -1,0 +1,10 @@
+.imagem-carousel-um {
+	object-fit: cover; /* ajusta a imagem de acordo com o container dela */
+	object-position: 0 80%; /* move a imagem no eixo x e y */
+	height: 400px;
+}
+
+.imagem-carousel-dois {
+	object-fit: cover;
+	height: 400px;
+}
