@@ -14,7 +14,7 @@
 }
 
 .cor-especial {
-	color: darkred;
+	color: darkred!important;
 }
 
 .botao-cor-especial {
@@ -25,4 +25,13 @@
 .borda-cor-especial {
 	border-color: darkred;
 	width: 18rem;
+}
+
+.card-posicao-imagem {
+	object-fit: cover; /* ajusta a imagem de acordo com o container dela */
+	height: 200px;
+}
+
+.card-largura {
+	max-width: 18rem;
 }
